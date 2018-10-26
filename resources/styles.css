@@ -1,0 +1,49 @@
+.section1 {
+  background-image: url("fractal-paint.jpg");
+}
+body {
+  text-align: center;
+  font-family: Helvetica;
+  background-color: aquamarine;
+}
+.section1 h1{
+  color: white;
+  font-size: 70px;
+  font-weight: bold;
+}
+.section1 li {
+  list-style-type: none;
+  font-size: 18px;
+}
+.section1 a {
+  color: white;
+}
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+h3 {
+  font-size:23px;
+  font-weight: bold;
+}
+p {
+  font-size: 14px;
+}
+#special {
+  background-image: url("fractal-paint.jpg");
+  color: white;
+}
+.section3 {
+  color: white;
+  background-color: maroon;
+  font-size: 18px;
+  text-align: left;
+}
+
+.section3 a{
+  color: white;
+}
+
+span {
+  font-size: 11px;
+}
